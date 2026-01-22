@@ -1,0 +1,21 @@
+Food
+Bread
+2.00
+Cash
+0.00
+Trader Joes
+Home
+Water Bill
+70.00
+Credit Card
+Utility
+Entertainment
+Netflix
+10.00
+Debit Card
+True
+Transportation
+Gas
+12.75
+Credit Card
+Car
