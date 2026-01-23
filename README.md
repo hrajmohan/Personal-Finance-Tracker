@@ -15,3 +15,14 @@ For each transaction entry you enter the category, transaction name, cost, payme
 
 As more entries are added to a monthly transaction file: you can see the total amount spent, total amount of transactions, and average cost per transaction. 
 ![A](pictures/file_entries.png)
+
+To run the full application(backend and frontend), run the following commands in terminal within FinanceTrackerGUI.java file:
+```
+javac -encoding UTF-8 FinanceTrackerGUI.java
+java FinanceTrackerGUI
+```
+
+To run just the backend part of this application, run it normally within Audit.java. 
+
+
+
