@@ -373,4 +373,21 @@ public final class Audit implements TheKey<Transaction> {
 	public void bubbleSort() {
 		bubbleSort(transactions);
 	}
+	
+	// GUI helper methods
+	public void addTransaction(Transaction t) {
+		transactions.add(t);
+	}
+	
+	public void clearTransactions() {
+		transactions.clear();
+	}
+	
+	public ArrayList<Transaction> getTransactions() {
+		return transactions;
+	}
+	
+	public void setCurrentFile(File file) {
+		// For GUI compatibility
+	}
 }
