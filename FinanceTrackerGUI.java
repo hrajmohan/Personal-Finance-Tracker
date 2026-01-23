@@ -1,6 +1,6 @@
 /* run the below 2 commands in terminal for frontend
 javac -encoding UTF-8 FinanceTrackerGUI.java
-java FinanceTrackerGUI 
+java FinanceTrackerGUI
 */
 
 import javax.swing.*;
